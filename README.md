@@ -10,9 +10,8 @@
 - 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about data science,machine learning
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 
+- 🥅 2022 Goals: Learn more about Data Science,Machine learning
+- ⚡ Fun fact: I love to listen music and play Video games like Valo,CSGO 
  ### My Tech Stack 🧰
 
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
