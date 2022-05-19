@@ -98,7 +98,7 @@
 ### Stats 📊
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mofaji&show_icons=true" alt="Mofaji_stats" /> 
-  <img height="180em" src="(https://my-readme-stats-anishde12020.vercel.app/api/top-langs/?username=mofaji&theme=radical&langs_count=10&layout=compact)" alt="Mofaji_stats" />
+  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mofaji&" alt="Mofaji_stats"/>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Mofaji" alt="Mofaji Profile visits" /></p>
