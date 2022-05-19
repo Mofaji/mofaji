@@ -14,7 +14,8 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 - 
 
-### My Skills 🚀
+### <h2 align="center">My Tech Stack 🧰</h2>
+<p align="center">
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![LARAVEL](https://img.shields.io/badge/laravel-%FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)
