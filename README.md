@@ -73,14 +73,14 @@
   
 </details>
 
-## ⌨️ My Setup
+
   
 ## ⌨️ My Setup
   
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-![AMD RADEON(TM) RX460](https://img.shields.io/badge/GPU-AMD%20RADEON(TM)%20RX460-red)
-![Intel(R) XEON(R) X5670](https://img.shields.io/badge/CPU-Intel(R)%20XEON(R)%20X5670-blue)
+![AMD RADEON(TM) RX460](https://img.shields.io/badge/GPU-AMD%20RADEON(TM)%20RX460-red?style=for-the-badge&logo=appveyor	)
+![Intel(R) XEON(R) X5670](https://img.shields.io/badge/CPU-Intel(R)%20XEON(R)%20X5670-blue?style=for-the-badge&logo=appveyor	)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Pop OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
