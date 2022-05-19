@@ -1,3 +1,4 @@
+![MOfaji GIF](https://tenor.com/view/tarzan-smashing-thornberry-funny-love-gif-7938766)
 # Hi there, I'm Faizaan fareed - aka Mofa 👋 
 
 
