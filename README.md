@@ -44,7 +44,13 @@
 [<img src = "https://img.shields.io/badge/faizaan_fareed-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/faizaan_fareed)
 [<img src = "https://img.shields.io/badge/faizaan_fareed-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/faizaan_fareed/)
 
-
+### Stats 📊
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mofaji&show_icons=true" alt="Mofaji_stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofaji&layout=compact" alt="Mofaji_stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mofaji&" alt="Mofaji_stats"/>
+</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Mofaji" alt="Mofaji Profile visits" /></p>
 
 <br />
 <br />
