@@ -39,10 +39,10 @@
 
 
 ### Connect With Me 🤝🤝
-[<img src="https://img.shields.io/badge/aakarshteja-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/faizaan-fareed-1a7b74221/)
-[<img src = "https://img.shields.io/badge/aakarshteja-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/faizaan_fareed)
-[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/faizaan_fareed)
-[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/faizaan_fareed/)
+[<img src="https://img.shields.io/badge/faizaan_fareed-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/faizaan-fareed-1a7b74221/)
+[<img src = "https://img.shields.io/badge/faizaan_fareed-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/faizaan_fareed)
+[<img src = "https://img.shields.io/badge/faizaan_fareed-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/faizaan_fareed)
+[<img src = "https://img.shields.io/badge/faizaan_fareed-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/faizaan_fareed/)
 
 
 
