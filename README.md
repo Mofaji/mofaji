@@ -13,7 +13,7 @@
 - 🥅 2022 Goals: Learn more about data science,machine learning
 - ⚡ Fun fact: I love to draw and play guitar / drums
 - 
- My Tech Stack 🧰
+ ### My Tech Stack 🧰
 
 ![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
