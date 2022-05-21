@@ -1,7 +1,7 @@
 ![Mofaji GIF](https://c.tenor.com/kmHEH_VM-y4AAAAM/spy-x-family-spy-family.gif)
 # Hi there, I'm Faizaan fareed - aka Mofa 👋 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mofaji&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -37,6 +37,12 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+[![R](https://img.shields.io/badge/R-★☆☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-★★☆-lightgrey?labelColor=003B57&logo=SQLite&style=for-the-badge&logoColor=white)](https://www.sqlite.org/)
+[![mongoDB](https://img.shields.io/badge/MongoDB-★☆☆-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
+
+
+
 
 ### Tools I Use 🔧🔨
 ![Xampp](https://img.shields.io/badge/xampp-%FCC624.svg?style=for-the-badge&logo=xampp&logoColor=white&color=FB7A24)
