@@ -23,17 +23,17 @@
  ### 🎈Hosting/Database
 ![Amazon Aws](https://img.shields.io/badge/AWS-★★☆☆☆-lightgreyaws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
 ![Firebase](https://img.shields.io/badge/firebase-★★☆☆☆-lightgreyffca28?style=for-the-badge&logo=firebase&logoColor=black)
-[![SQLite](https://img.shields.io/badge/SQLite-★★☆-lightgrey?labelColor=003B57&logo=SQLite&style=for-the-badge&logoColor=white)](https://www.sqlite.org/)
-[![mongoDB](https://img.shields.io/badge/MongoDB-★☆☆-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
-![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+[![SQLite](https://img.shields.io/badge/SQLite-★★☆☆☆-lightgrey?labelColor=003B57&logo=SQLite&style=for-the-badge&logoColor=white)](https://www.sqlite.org/)
+[![mongoDB](https://img.shields.io/badge/MongoDB-★☆☆☆☆-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
+![MySQL](https://img.shields.io/badge/mysql-★★★★☆%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 
 
 ### 💻 IDEs/Editors
-![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-★★★☆%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
+![Jupyter](https://img.shields.io/badge/Jupyter-★★☆☆☆F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-★★☆☆☆FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-★★★☆☆3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-★★★★★0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### 📋 Languages
