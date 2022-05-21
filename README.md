@@ -40,7 +40,7 @@
 ### 📋 Languages
 
 ![PHP](https://img.shields.io/badge/php-★★★-lightgrey%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
-![Javascript](https://img.shields.io/badge/javscript-★★★☆☆-lightgrey%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+![Javascript](https://img.shields.io/badge/javscript-★★★☆☆-lightgreyF7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 ![HTML](https://img.shields.io/badge/html5-★★★★★-lightgrey3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/css3-★★★★★-lightgrey1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Python](https://img.shields.io/badge/python-★★★★☆-lightgrey3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
@@ -55,12 +55,12 @@
 ![Dart](https://img.shields.io/badge/dart-★★☆☆☆-lightgrey230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 📚 Frameworks, Platforms and Libraries
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-★★☆☆☆-lightgrey2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-★★★★☆-lightgrey23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-★☆☆☆☆-lightgrey23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-★★☆☆☆-lightgrey6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-★★★★☆-lightgreyhotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-★★★★☆-lightgrey2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ### 🍗 ML/DL
