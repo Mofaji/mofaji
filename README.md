@@ -7,7 +7,6 @@
 
 ## I'm a college student and Developer !!
 
-- 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🧑‍💻 I am interested in technology
