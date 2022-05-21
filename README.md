@@ -29,12 +29,12 @@
 
 
 ### 💻 IDEs/Editors
-![Linux](https://img.shields.io/badge/linux-★★★☆-lightgrey%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
+![Linux](https://img.shields.io/badge/linux-★★★☆-lightgreyFCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![Jupyter](https://img.shields.io/badge/Jupyter-★★☆☆☆-lightgreyF37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-★★☆☆☆-lightgreyFE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-★★★☆☆-lightgrey3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-★★★★★-lightgrey0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-★★★★☆-darkgrey5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### 📋 Languages
 
