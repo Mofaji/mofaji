@@ -21,8 +21,8 @@
  ### My Tech Stack 🧰
  
  ### 🎈Hosting/Database
-![Amazon Aws](https://img.shields.io/badge/★★☆☆☆-lightgreyamazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Amazon Aws](https://img.shields.io/badge/AWS-★★☆☆☆-lightgrey%aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
+![Firebase](https://img.shields.io/badge/firebase-★★☆☆☆-lightgrey%ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 [![SQLite](https://img.shields.io/badge/SQLite-★★☆-lightgrey?labelColor=003B57&logo=SQLite&style=for-the-badge&logoColor=white)](https://www.sqlite.org/)
 [![mongoDB](https://img.shields.io/badge/MongoDB-★☆☆-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
