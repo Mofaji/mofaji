@@ -35,23 +35,24 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-★★★☆☆-lightgrey3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-★★★★★-lightgrey0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-★★★★☆-darkgrey5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-★★★☆☆-lightgrey2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### 📋 Languages
 
 ![PHP](https://img.shields.io/badge/php-★★★-lightgrey%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
-![Javascript](https://img.shields.io/badge/javscript-★★★☆☆%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
-![HTML](https://img.shields.io/badge/html5-★★★★★3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![CSS](https://img.shields.io/badge/css3-★★★★★1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![Python](https://img.shields.io/badge/python-★★★★☆3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![Java](https://img.shields.io/badge/java-★★★☆☆7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
-![C](https://img.shields.io/badge/c-★★★☆☆3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Javascript](https://img.shields.io/badge/javscript-★★★☆☆-lightgrey%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+![HTML](https://img.shields.io/badge/html5-★★★★★-lightgrey3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![CSS](https://img.shields.io/badge/css3-★★★★★-lightgrey1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+![Python](https://img.shields.io/badge/python-★★★★☆-lightgrey3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![Java](https://img.shields.io/badge/java-★★★☆☆-lightgrey7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
+![C](https://img.shields.io/badge/c-★★★☆☆-lightgrey3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
+![JSON](https://img.shields.io/badge/json-★★☆☆☆-lightgrey5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-[![R](https://img.shields.io/badge/R-★☆☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-
+![C#](https://img.shields.io/badge/c%23-★★☆☆☆-lightgrey23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-★★★☆☆-lightgrey2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![R](https://img.shields.io/badge/R-★☆☆☆☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
+![Swift](https://img.shields.io/badge/swift-★☆☆☆☆-lightgreyF54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-★★☆☆☆-lightgrey230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 📚 Frameworks, Platforms and Libraries
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
