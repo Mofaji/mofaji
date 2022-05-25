@@ -46,7 +46,7 @@
 ![Java](https://img.shields.io/badge/java-★★★☆☆-lightgrey7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![C](https://img.shields.io/badge/c-★★★☆☆-lightgrey3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 ![JSON](https://img.shields.io/badge/json-★★☆☆☆-lightgrey5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-★★☆☆☆-lightgrey23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-★★★☆☆-lightgrey2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 [![R](https://img.shields.io/badge/R-★☆☆☆☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
