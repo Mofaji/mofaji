@@ -12,7 +12,7 @@
 - 🧑‍💻 I am interested in technology
 - 🥬 I am an early adopter
 - 🕸️ I am currently working on web development and learning new tools and technologies
-- 🥅 2022 Goals: Learn more about Data Science,Machine learning
+- 🥅 2023 Goals: Learn more about Data Science,Machine learning
 - ⚡ Fun fact: I love to listen music and play Video games like Valo,CSGO 
 
 
