@@ -1,19 +1,19 @@
 ![Mofaji GIF](https://c.tenor.com/kmHEH_VM-y4AAAAM/spy-x-family-spy-family.gif)
-# Hi there, I'm Faizaan fareed - aka Mofa 👋 
+# Hi there, I'm Faizaan Fareed - aka Mofa 👋 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mofaji&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
-## I'm a college student and Developer !!
+## I'm a BI Consultant and Developer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🧑‍💻 I am interested in technology
 - 🥬 I am an early adopter
 - 🕸️ I am currently working on web development and learning new tools and technologies
-- 🥅 2023 Goals: Learn more about Data Science,Machine learning
-- ⚡ Fun fact: I love to listen music and play Video games like Valo,CSGO 
+- 🥅 2026 Goals: Learn more about Data Science, Machine learning
+- ⚡ Fun fact: I play Video games like Valo, CSGO 
 
 
 
