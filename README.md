@@ -33,15 +33,6 @@ An experiment in code-first Power BI development using **PBIP, TMDL, Python, and
 
 [View the repository](https://github.com/Mofaji/Agentic-PBIP-Template)
 
-### Enterprise CMMS implementation
-
-Built a Computerized Maintenance Management System covering corrective and preventive maintenance, technician workflows, procurement, vendors, job cards, and digital sign-offs.
-
-- Phase 1 launched across **48 facilities**.
-- Supported maintenance operations for **1,000+ assets**.
-- Processed **150+ maintenance tickets**.
-- Recorded **6,336 manpower hours** and more than **half a million in procurement activity**.
-
 ### SAP-powered business intelligence
 
 Developed analytics and reporting workflows around ERP data, with a focus on reconciling source data, shaping reliable datasets, and delivering business-facing reporting for sales, procurement, stock, and financial operations.
@@ -67,7 +58,7 @@ Have a BI challenge, an SAP reporting problem, or an idea around analytics engin
 
 ---
 
-*Building practical BI solutions, one reliable data model at a time.*
+*Building practical BI solutions.*
 
 
 ---
